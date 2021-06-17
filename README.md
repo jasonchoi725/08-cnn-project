@@ -1,3 +1,3 @@
 # 08-cdots-project
 
-cnn, image recognition
+CNN, image recognition
