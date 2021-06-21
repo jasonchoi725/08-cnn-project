@@ -3,6 +3,9 @@
 CNN, image recognition study materials
 CNN, image recongnition 공부 자료
 
+
+공부중...
+
 https://www.kdnuggets.com/2018/04/building-convolutional-neural-network-numpy-scratch.html
 https://jonathan-hui.medium.com/gan-dcgan-deep-convolutional-generative-adversarial-networks-df855c438f
 http://daddynkidsmakers.blogspot.com/2017/02/blog-post_24.html
