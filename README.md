@@ -12,3 +12,4 @@ http://daddynkidsmakers.blogspot.com/2017/02/blog-post_24.html
 https://www.youtube.com/watch?v=h7iBpEHGVNc&ab_channel=StanfordUniversitySchoolofEngineeringStanfordUniversitySchoolofEngineering
 https://www.youtube.com/watch?v=f0t-OCG79-U
 https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
+https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
