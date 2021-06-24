@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=h7iBpEHGVNc&ab_channel=StanfordUniversitySchoolo
 https://www.youtube.com/watch?v=f0t-OCG79-U
 https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
 https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
+
+어렵다
