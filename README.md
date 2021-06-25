@@ -14,4 +14,6 @@ https://www.youtube.com/watch?v=f0t-OCG79-U
 https://www.cs.ryerson.ca/~aharley/vis/conv/flat.html
 https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn
 
-어렵다
+어렵다 (이제 다 이해함)
+
+계속 공부중
