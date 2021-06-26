@@ -17,3 +17,5 @@ https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neura
 어렵다 (이제 다 이해함)
 
 계속 공부중
+
+almost done
