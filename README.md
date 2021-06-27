@@ -19,3 +19,4 @@ https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neura
 계속 공부중
 
 almost done
+아직
