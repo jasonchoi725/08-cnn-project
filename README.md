@@ -21,3 +21,4 @@ https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neura
 almost done
 아직
 하는중
+다함
