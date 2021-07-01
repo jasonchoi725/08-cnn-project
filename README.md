@@ -22,3 +22,4 @@ almost done
 아직
 하는중
 다함
+이제 rnn
