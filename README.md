@@ -33,3 +33,12 @@ almost done
 7. 하여간 이 pooling layer를 얻어냄.
 8. 그다음엔 이 pooling layer들을 각각 flattening 해줄거임. 길게 늘어놓는거임.
 9. 그리고 이제 이 flattened layer를 ANN에 넣어주어야 함.
+
+
+
+
+
+
+
+
+
