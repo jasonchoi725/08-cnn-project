@@ -1,4 +1,4 @@
-# 08-cdots-project
+# 08-cnn-project
 
 CNN, image recognition study materials
 CNN, image recongnition 공부 자료
