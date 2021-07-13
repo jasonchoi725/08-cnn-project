@@ -24,13 +24,12 @@ almost done
 다함
 이제 rnn
 
-input image (너무 큼. 그래서 작게 만들어주거나, 대강의 느낌을 파악해야함.)
-그래서 feature detector로 convolve함.
-그렇게 해서 나오는게 feature map(=activation map)
-이걸 여러번 해서 feature map을 모으면 그게 하나의 convolutional layer가 됨
-그다음 feature map들의 non-linearity을 키우기 위해서 ReLU 함수에 통과 시킴.
-그다음에 해야하는건 pooling임 (이거를 하는 이유는 이미지의 텍스쳐, 촬영 거리, 각도 등으로 인한 오차를 최대한 줄이기 위해서임. Max, sum, mean 등의 pooling이 있음. 이거를 수행하면 'spatial variance'를 유지할 수 있음)
-spatial variance는 중요한게 이미지에서는 픽셀간의 공간적인 상대적 위치가 중요하기 때문임.
-하여간 이 pooling layer를 얻어냄.
-그다음엔 이 pooling layer들을 각각 flattening 해줄거임. 길게 늘어놓는거임.
-그리고 이제 이 flattened layer를 ANN에 넣어주어야 함.
+1. input image (너무 큼. 그래서 작게 만들어주거나, 대강의 느낌을 파악해야함.) 그래서 feature detector로 convolve함.
+2. 그렇게 해서 나오는게 feature map(=activation map)
+3. 이걸 여러번 해서 feature map을 모으면 그게 하나의 convolutional layer가 됨
+4. 그다음 feature map들의 non-linearity을 키우기 위해서 ReLU 함수에 통과 시킴.
+5. 그다음에 해야하는건 pooling임 (이거를 하는 이유는 이미지의 텍스쳐, 촬영 거리, 각도 등으로 인한 오차를 최대한 줄이기 위해서임. Max, sum, mean 등의 pooling이 있음. 이거를 수행하면 'spatial variance'를 유지할 수 있음)
+6. spatial variance는 중요한게 이미지에서는 픽셀간의 공간적인 상대적 위치가 중요하기 때문임.
+7. 하여간 이 pooling layer를 얻어냄.
+8. 그다음엔 이 pooling layer들을 각각 flattening 해줄거임. 길게 늘어놓는거임.
+9. 그리고 이제 이 flattened layer를 ANN에 넣어주어야 함.
