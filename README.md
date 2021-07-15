@@ -35,7 +35,7 @@ almost done
 9. 그리고 이제 이 flattened layer를 ANN에 넣어주어야 함.
 
 
-
+추가
 
 
 
